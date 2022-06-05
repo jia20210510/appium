@@ -1,0 +1,29 @@
+
+platformName: android
+platformVersion: 7.1.1
+deviceName: nox_emulator
+automationName: uiautomator2
+appPackage: com.hle.lhzm
+appActivity: cn.hle.lhzm.ui.activity.main.SplashActivity
+
+# save ap status,next case can be continue then True
+noReset: True
+
+#from 8200 to 8299
+systemPort: 8208
+
+# auto install app
+app: E:\PycharmProject\appium\data\com.hle.lhzm.apk
+
+#input chinese
+unicodeKeyboard: True
+resetKeyboard: True
+
+# appium  server
+ip: 127.0.0.1
+port: 4723
+
+#position H5 page webView elements
+chromedriverExecutable: C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\_appium-chromedriver@4.16.0@appium-chromedriver\\chromedriver\\win74\\chromedriver.exe
+
+

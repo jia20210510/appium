@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: 没有找到com.hle.lhzm:id/tv_home_family_but",
+      "children" : [ {
+        "name" : "test_check_status",
+        "uid" : "1897f8785b2222e5",
+        "parentUid" : "559d647f9c46ca1ecb25dc58280443bb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653751549909,
+          "stop" : 1653751560861,
+          "duration" : 10952
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "559d647f9c46ca1ecb25dc58280443bb"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

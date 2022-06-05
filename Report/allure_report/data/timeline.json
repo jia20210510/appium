@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN10-jjia",
+    "children" : [ {
+      "name" : "12880-MainThread",
+      "children" : [ {
+        "name" : "test_check_status",
+        "uid" : "1897f8785b2222e5",
+        "parentUid" : "d658bc8465c3cafb6450f293a1b4ebef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1653751549909,
+          "stop" : 1653751560861,
+          "duration" : 10952
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login",
+        "uid" : "89ce0d6fe910e8a4",
+        "parentUid" : "d658bc8465c3cafb6450f293a1b4ebef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653751488791,
+          "stop" : 1653751549904,
+          "duration" : 61113
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logout",
+        "uid" : "334806ab0c9f93b1",
+        "parentUid" : "d658bc8465c3cafb6450f293a1b4ebef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653751561155,
+          "stop" : 1653751576813,
+          "duration" : 15658
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d658bc8465c3cafb6450f293a1b4ebef"
+    } ],
+    "uid" : "1059aaf82b7626d615b0e3cdcf7e2adb"
+  } ]
+}

@@ -1,0 +1,24 @@
+#Emulator
+platformName: android
+deviceName: 127.0.0.1:62001
+platformVersion: 7.1.1
+
+#real device
+#udid: 750BBKL22GDN
+automationName: uiautomator2
+#from 8200 to 8299
+systemPort: 8208
+appName: C:\Users\Shuqing\Desktop\kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+noReset: False
+emulator: True
+#input chinese
+unicodeKeyboard: True
+resetKeyboard: True
+ip: 127.0.0.1
+port: 4723
+#position H5 page webView elements
+chromedriverExecutable: C:\\Users\\Administrator\\AppData\\Roaming\\npm\\node_modules\\appium\\node_modules\\_appium-chromedriver@4.16.0@appium-chromedriver\\chromedriver\\win74\\chromedriver.exe
+
+

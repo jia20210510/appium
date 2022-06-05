@@ -1,0 +1,9 @@
+pytest
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
+allure-pytest
+
+
+# pip install -r requirement_plugin.txt

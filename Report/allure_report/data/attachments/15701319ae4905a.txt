@@ -1,0 +1,3 @@
+INFO     debug_logger:test_HomeLinking.py:37 ============login==============
+INFO     debug_logger:test_HomeLinking.py:58 账号区域是：中国(+86)
+INFO     debug_logger:test_HomeLinking.py:67 点击登录

@@ -1,0 +1,60 @@
+{
+  "6f508223e6e9411d12d2d9dc4be9ecc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "89ce0d6fe910e8a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653751488791,
+        "stop" : 1653751549904,
+        "duration" : 61113
+      }
+    } ]
+  },
+  "a2453a2fbf5daa217d491e0245698f61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1897f8785b2222e5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message: 没有找到com.hle.lhzm:id/tv_home_family_but",
+      "time" : {
+        "start" : 1653751549909,
+        "stop" : 1653751560861,
+        "duration" : 10952
+      }
+    } ]
+  },
+  "40117510033190fc39e13a054b7efa93" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "334806ab0c9f93b1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653751561155,
+        "stop" : 1653751576813,
+        "duration" : 15658
+      }
+    } ]
+  }
+}

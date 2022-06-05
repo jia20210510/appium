@@ -1,0 +1,9 @@
+2022-05-28 23:15:55,299 [test_HomeLinking.py:37] [INFO]- ============login==============
+2022-05-28 23:16:56,303 [test_HomeLinking.py:58] [INFO]- 账号区域是：中国(+86)
+2022-05-28 23:17:02,439 [test_HomeLinking.py:67] [INFO]- 点击登录
+2022-05-28 23:17:08,819 [test_HomeLinking.py:72] [DEBUG]- =====check_logon_status======
+2022-05-28 23:17:20,667 [test_HomeLinking.py:78] [DEBUG]- 用户已登录
+2022-05-28 23:17:23,586 [Func.py:164] [INFO]- image_file: E:\\PycharmProject\\appium\\screenshots\\2022-05-28 23_17_20.png
+2022-05-28 23:17:23,590 [test_HomeLinking.py:87] [INFO]- =====logout======
+2022-05-28 23:17:43,054 [test_HomeLinking.py:96] [DEBUG]- 账号已退出
+2022-05-28 23:17:43,613 [Func.py:164] [INFO]- image_file: E:\\PycharmProject\\appium\\screenshots\\2022-05-28 23_17_43.png

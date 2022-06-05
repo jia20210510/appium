@@ -1,0 +1,3 @@
+INFO     debug_logger:test_HomeLinking.py:87 =====logout======
+DEBUG    debug_logger:test_HomeLinking.py:96 账号已退出
+INFO     debug_logger:Func.py:164 image_file: E:\\PycharmProject\\appium\\screenshots\\2022-05-28 23_26_16.png

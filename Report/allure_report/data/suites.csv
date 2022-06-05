@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sat May 28 23:25:49 CST 2022","Sat May 28 23:26:00 CST 2022","10952","test_case","test_HomeLinking","TestHomeLinking","","","test_check_status",""
+"passed","Sat May 28 23:24:48 CST 2022","Sat May 28 23:25:49 CST 2022","61113","test_case","test_HomeLinking","TestHomeLinking","","","test_login",""
+"passed","Sat May 28 23:26:01 CST 2022","Sat May 28 23:26:16 CST 2022","15658","test_case","test_HomeLinking","TestHomeLinking","","","test_logout",""

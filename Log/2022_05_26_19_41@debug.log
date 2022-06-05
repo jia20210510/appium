@@ -1,0 +1,9 @@
+2022-05-26 19:42:09,535 [loginView.py:20] [INFO]- ============login==============
+2022-05-26 19:42:22,632 [Func.py:50] [DEBUG]- 没有出现存储权限弹窗
+2022-05-26 19:42:45,599 [Func.py:68] [DEBUG]- time out,没有出现位置权限弹窗
+2022-05-26 19:42:45,644 [loginView.py:41] [INFO]- 账号区域是：中国(+86)
+2022-05-26 19:42:48,971 [loginView.py:49] [DEBUG]- 勾选隐私权限，用户协议
+2022-05-26 19:42:53,957 [loginView.py:57] [DEBUG]- 用户未登录
+2022-05-26 19:42:54,270 [Func.py:164] [INFO]- image_file: E:\\PycharmProject\\appium\\screenshots\\2022-05-26 19_42_53.png
+2022-05-26 19:42:54,271 [loginView.py:64] [INFO]- =====logout======
+2022-05-26 19:43:11,344 [Func.py:68] [DEBUG]- time out,没有出现我的

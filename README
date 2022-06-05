@@ -1,0 +1,10 @@
+# pip install pytest-ordering      安装插件后可指定执行顺序
+# pip install pytest-xdist         安装插件用于多线程运行用例
+# pip install pytest-rerunfailures 安装插件用于失败重跑
+# pip install pytest-html          安装插件用于输出报告
+# pip install allure_report-pytest  安装插件美化报告
+# pip install fixture              安装插件做用例的前置和后置
+
+# pip install -r requirement_plugin.txt 安装所有使用插件
+
+# 模块名以test_开头或_test结尾；类名以Test开头；方法名以test开头，可在pytest.ini中自定义
