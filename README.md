@@ -18,12 +18,27 @@
 6,模块名以test_开头或_test结尾；类名以Test开头；方法名以test开头，可在pytest.ini中自定义
 
 ## 页面展示：
+![image](https://user-images.githubusercontent.com/83941545/203574262-9bcbbcb9-db37-4aee-b01a-6e59419e670a.png)
+![image](https://user-images.githubusercontent.com/83941545/203574477-a0efa1f5-f0b3-4edd-87b7-d76289ae4fd8.png)
 
 ## 安装环境：
+win 10
+
+python 3.8
+
+pytest 6.2.4
+
+allure 2.9.43
+
+flask 2.0.1
+
+html 3.1.1
 
 ## 如何安装：
- pip install -r requirement_plugin.txt 安装所有使用插件
- 
+pip install -r requirement_plugin.txt 安装所有使用插件
+
+插件介绍：
+
 pytest-ordering      安装插件后可指定执行顺序
 
 pytest-xdist         安装插件用于多线程运行用例
